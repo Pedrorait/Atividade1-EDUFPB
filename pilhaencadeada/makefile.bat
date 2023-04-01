@@ -1,0 +1,1 @@
+g++ main.cpp pilha.cpp -o main
