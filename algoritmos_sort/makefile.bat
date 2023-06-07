@@ -1,0 +1,1 @@
+g++ main.cpp algoritmossort.cpp -o main
